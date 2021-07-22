@@ -1,5 +1,5 @@
 ---
-title: Yes
+title: Another Sample Page
 published: true
 ---
 
